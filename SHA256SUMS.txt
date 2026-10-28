@@ -1,0 +1,1 @@
+9387888fdc076beaaa05693560f715e76af014cc1a40ab6ad8ee5a1d0c09a64e  Audiohopper-0.1.0-beta.1-macOS-arm64.dmg
